@@ -1,4 +1,4 @@
-# curso-cypress-percy
+# cypress-percy
 Repositório projeto básico [Cypress + Percy](https://docs.percy.io/docs/cypress).
 
 ## Pré-requisitos
@@ -26,5 +26,3 @@ $ export PERCY_TOKEN=<your token here>
 
 ## Executando os testes
 Execute `npm test` para executar os testes em modo headless.
-
-Um curso da Escola Talking About Testing.
